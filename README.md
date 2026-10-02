@@ -6,7 +6,7 @@ Telegram [@bluekeeps](https://t.me/bluekeeps) · Discord `economism`
 
 #### Current
 
-Researching Riot Vanguard and working on its bypass.
+Vanguard internals research.
 
 <img src="https://img.shields.io/badge/Game-Valorant-red?style=for-the-badge&logo=valorant" />
 
@@ -19,11 +19,20 @@ Researching Riot Vanguard and working on its bypass.
 
 #### Stack
 
-|           |                                    |
-| --------- | ---------------------------------- |
-| Languages | C, C++, Python, x86-64 assembly    |
-| Tools     | IDA Pro, Ghidra, x64dbg, Visual Studio |
-| Platform  | Windows, Linux                     |
+<img src="https://skillicons.dev/icons?i=c,cpp,visualstudio" />
+
+<img src="https://img.shields.io/badge/x86--64_ASM-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/IDA_Pro-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/x64dbg-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/Ghidra-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/Cheat_Engine-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/dnSpy-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/Detect_It_Easy-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/PE--bear-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/HxD-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/Process_Hacker-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/Procmon-1E1E1E?style=flat-square" />
+<img src="https://img.shields.io/badge/Wireshark-1E1E1E?style=flat-square&logo=wireshark&logoColor=white" />
 
 #### Projects
 
