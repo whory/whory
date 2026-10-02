@@ -8,7 +8,7 @@ Telegram [@bluekeeps](https://t.me/bluekeeps) · Discord `economism`
 
 Vanguard internals research.
 
-<img src="https://img.shields.io/badge/Game-Valorant-red?style=for-the-badge&logo=valorant" />
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" /> <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white" />
 
 #### Focus
 
@@ -19,20 +19,18 @@ Vanguard internals research.
 
 #### Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,visualstudio" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,lua,visualstudio" />
 
-<img src="https://img.shields.io/badge/x86--64_ASM-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/IDA_Pro-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/x64dbg-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Ghidra-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Cheat_Engine-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/dnSpy-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Detect_It_Easy-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/PE--bear-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/HxD-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Process_Hacker-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Procmon-1E1E1E?style=flat-square" />
-<img src="https://img.shields.io/badge/Wireshark-1E1E1E?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/x86--64_ASM-1E1E1E?style=for-the-badge" />
+
+| | |
+| --- | --- |
+| Build | <img src="https://img.shields.io/badge/LLVM-2B3A55?style=for-the-badge&logo=llvm&logoColor=white" /> <img src="https://img.shields.io/badge/Clang-2B3A55?style=for-the-badge" /> <img src="https://img.shields.io/badge/MSVC-2B3A55?style=for-the-badge" /> <img src="https://img.shields.io/badge/WDK-2B3A55?style=for-the-badge" /> |
+| Disassembly | <img src="https://img.shields.io/badge/IDA_Pro-5B2C83?style=for-the-badge" /> <img src="https://img.shields.io/badge/Ghidra-5B2C83?style=for-the-badge" /> |
+| Debugging | <img src="https://img.shields.io/badge/x64dbg-1F4E79?style=for-the-badge" /> <img src="https://img.shields.io/badge/WinDbg-1F4E79?style=for-the-badge" /> |
+| Memory and .NET | <img src="https://img.shields.io/badge/Cheat_Engine-7A3E1D?style=for-the-badge" /> <img src="https://img.shields.io/badge/dnSpy-7A3E1D?style=for-the-badge&logo=dotnet&logoColor=white" /> |
+| PE analysis | <img src="https://img.shields.io/badge/Detect_It_Easy-2E5E4E?style=for-the-badge" /> <img src="https://img.shields.io/badge/PE--bear-2E5E4E?style=for-the-badge" /> <img src="https://img.shields.io/badge/HxD-2E5E4E?style=for-the-badge" /> |
+| Security | <img src="https://img.shields.io/badge/Metasploit-8B1E2D?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Frida-8B1E2D?style=for-the-badge" /> <img src="https://img.shields.io/badge/Wireshark-8B1E2D?style=for-the-badge&logo=wireshark&logoColor=white" /> |
 
 #### Projects
 
