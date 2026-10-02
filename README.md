@@ -4,6 +4,12 @@ Reverse engineer. Anti-cheat internals, software protection, low-level Windows.
 
 Telegram [@bluekeeps](https://t.me/bluekeeps) · Discord `economism`
 
+#### Current
+
+Researching Riot Vanguard and working on its bypass.
+
+<img src="https://img.shields.io/badge/Game-Valorant-red?style=for-the-badge&logo=valorant" />
+
 #### Focus
 
 - Reverse engineering of binaries, packers and protectors
